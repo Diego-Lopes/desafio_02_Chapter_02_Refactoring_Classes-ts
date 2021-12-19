@@ -7,8 +7,7 @@ Desafio Chapter 02 do curso Ignite da Rocketseat | Trilha de Reactjs
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Diego-Lopes/desafio_02_Chapter_02_Refactoring_Classes-ts
-.git
+$ git clone https://github.com/Diego-Lopes/desafio_02_Chapter_02_Refactoring_Classes-ts.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd desafio_02_Chapter_02_Refactoring_Classes-ts
