@@ -11,7 +11,7 @@ $ git clone https://github.com/Diego-Lopes/desafio_02_Chapter_02_Refactoring_Cla
 .git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd RocketShoes
+$ cd desafio_02_Chapter_02_Refactoring_Classes-ts
 
 # Instale as dependências
 $ yarn
