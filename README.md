@@ -24,3 +24,6 @@ $ yarn start
 ```
 
 <img src="./public/img/GoRestaurant.png"/>
+
+<hr />
+<p align=center>Refactored with 💜 by <a href="https://www.linkedin.com/in/diego-lopes-37877a105/">Diego da Silva Lopes</a><p>
